@@ -18,8 +18,14 @@ Here are some ideas to get you started:
 <!--[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bellh14&langs_count=8&theme=midnight-purple)]()-->
 <!--[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bellh14&count_private=true&theme=midnight-purple&showicons=true)]()-->
 
-![](https://raw.githubusercontent.com/bellh14/githubstats/master/generated/overview.svg#gh-dark-mode-only)
+<!--![](https://raw.githubusercontent.com/bellh14/githubstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/bellh14/githubstats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/bellh14/githubstats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/bellh14/githubstats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/bellh14/githubstats/master/generated/languages.svg#gh-light-mode-only) -->
+
+
+<a href="https://github.com/bellh14">
+<img src="https://raw.githubusercontent.com/bellh14/githubstats/master/generated/overview.svg" />
+<img src="https://raw.githubusercontent.com/bellh14/githubstats/master/generated/languages.svg" />
+</a>
