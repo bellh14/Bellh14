@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/bellh14">
 <img src="https://raw.githubusercontent.com/bellh14/githubstats/master/generated/overview.svg" />
-<img src="https://raw.githubusercontent.com/bellh14/githubstats/master/generated/languages.svg" />
+<img src="https://raw.githubusercontent.com/bellh14/githubstats/master/generated/languages.svg"/>
 </a>
